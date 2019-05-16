@@ -3,3 +3,4 @@
 # .gitignore
 # Description: learning git and gitignore
 
+*.class
